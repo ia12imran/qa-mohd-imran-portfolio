@@ -1,0 +1,25 @@
+{
+  "name": "qa-mohd-imran-portfolio",
+  "version": "1.0.0",
+  "description": "A responsive personal portfolio built with plain HTML, CSS and JavaScript. No build step, no dependencies. It reads like a test-run report: sticky nav, a live run summary in the hero, expandable case studies, product coverage, impact metrics, system diagrams, reporting, a career timeline and a filterable skills explorer.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ia12imran/qa-mohd-imran-portfolio.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ia12imran/qa-mohd-imran-portfolio/issues"
+  },
+  "homepage": "https://github.com/ia12imran/qa-mohd-imran-portfolio#readme",
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
