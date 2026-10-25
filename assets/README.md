@@ -1,0 +1,1 @@
+Place your public resume PDF here and name it `Mohd-Imran-Resume.pdf` to enable the resume link in the homepage. Only publish a resume version that you are comfortable making public.
